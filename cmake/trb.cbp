@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="trb"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\joaom\Desktop\poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697\VFINAL\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\joaom\Desktop\poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697\VFINAL\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\joaom\Desktop\poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697\VFINAL\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\joaom\Desktop\poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697\VFINAL\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="trb">
+				<Option output="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/trb.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\joaom\Desktop\poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697\VFINAL\cmake-build-debug\Makefile VERBOSE=1 trb"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\joaom\Desktop\poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697\VFINAL\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\joaom\Desktop\poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697\VFINAL\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\joaom\Desktop\poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697\VFINAL\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="trb/fast">
+				<Option output="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/trb.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\joaom\Desktop\poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697\VFINAL\cmake-build-debug\Makefile VERBOSE=1 trb/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\joaom\Desktop\poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697\VFINAL\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\joaom\Desktop\poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697\VFINAL\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\joaom\Desktop\poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697\VFINAL\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\joaom\Desktop\poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697\VFINAL\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\joaom\Desktop\poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697\VFINAL\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\joaom\Desktop\poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697\VFINAL\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\joaom\Desktop\poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697\VFINAL\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\joaom\Desktop\poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697\VFINAL\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\joaom\Desktop\poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697\VFINAL\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\joaom\Desktop\poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697\VFINAL\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\joaom\Desktop\poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697\VFINAL\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Edificio.cpp">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Edificio.h">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Edificios/Bateria.cpp">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Edificios/Bateria.h">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Edificios/Centraleletrica.cpp">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Edificios/Centraleletrica.h">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Edificios/Edificiox.cpp">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Edificios/Edificiox.h">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Edificios/Fundicao.cpp">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Edificios/Fundicao.h">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Edificios/Minacarvao.cpp">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Edificios/Minacarvao.h">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Edificios/Minaferro.cpp">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Edificios/Minaferro.h">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Ilha.cpp">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Ilha.h">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Interacao.cpp">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Interacao.h">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Recursos.cpp">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Recursos.h">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Recursos/Aco.cpp">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Recursos/Aco.h">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Recursos/Carvao.cpp">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Recursos/Carvao.h">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Recursos/Eletricidade.cpp">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Recursos/Eletricidade.h">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Recursos/Ferro.cpp">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Recursos/Ferro.h">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Recursos/Madeira.cpp">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Recursos/Madeira.h">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Recursos/VigasMadeira.cpp">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Recursos/VigasMadeira.h">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Trabalhadores.cpp">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Trabalhadores.h">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Trabalhadores/Lenhador.cpp">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Trabalhadores/Lenhador.h">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Trabalhadores/Mineiro.cpp">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Trabalhadores/Mineiro.h">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Trabalhadores/Operario.cpp">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Trabalhadores/Operario.h">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Zona.cpp">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Zona.h">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Zonas/Deserto.cpp">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/cmake-build-debug/Zonas/Deserto.h">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/main.cpp">
+			<Option target="trb"/>
+		</Unit>
+		<Unit filename="C:/Users/joaom/Desktop/poo_2122_tp_meta2_JoaoMorais_2019134282_SandraPerdigao_2019102697/VFINAL/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

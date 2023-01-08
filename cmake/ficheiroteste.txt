@@ -1,0 +1,5 @@
+list
+cont miner
+list
+cons minaf 1 1
+list 1 1
